@@ -1,0 +1,153 @@
+.text-sm {
+   font-size: 20px;
+}
+.menu{
+    float: right;
+    padding: 30px;
+    text-decoration: none;
+}
+.menu a {
+    text-decoration: none;
+    color:#000;
+    font-size:20px;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.creator_profile{
+    margin: auto;
+}
+.mainmenu{
+    background-color:#fff;
+    width:100%;
+    height: 100px;
+}
+.video-text p{
+    font-size: 20px;
+    padding: 20px;
+    padding-left: 50px;
+
+
+}
+.video-text h1{
+    font-weight: bold;
+    padding-top: 10px;
+
+}
+.card button{
+    height: 40px;
+    width: 80px;
+    border-radius: 5%;
+
+}
+.card p{
+    font-size: 30px;
+}
+.card-deck{
+    height:100%;
+    padding-bottom:200px;
+}
+.card{
+    height:350px;
+    border-radius: 5%;
+}
+.card-body{
+    padding: 0px;
+}
+.img-card{
+    height: 200px;
+    width:100%;
+    border-radius: 5%;
+
+}
+.details .package-text h1,p{
+    color: black;
+    font-size: 30px;
+}
+.img-package{
+    height: 450px;
+    width: 100%;
+}
+.package{
+   height: 100%;
+   width: 100%;
+}
+.package-title{
+    text-align: center;
+    padding: 150px;
+}
+.package-title p{
+   color: black;
+   font-size:50px;
+   font-weight: bold;
+
+}
+.developer-area{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+}
+.developer-area .title{
+    text-align: center;
+    padding: 80px;
+}
+.title p{
+    font-size:50px;
+    color: #fff;
+
+}
+.detail p{
+    font-size:20px;
+    padding-top:15px;
+    color: #fff;
+}
+.detail h4,h5{
+    color: #fff;
+    padding-top:7px;
+
+}
+.developer-area .detail{
+    text-align: center;
+    padding:20px;
+    
+}
+.dev1{
+    background:#ff2832;
+    height:300px;
+    border-radius:5px;
+    opacity: .7;
+    margin-right: 10px;
+    margin-left: 80px;
+}
+.dev2{
+    background:#ff2832;
+    margin-left: 10px;
+    opacity: .7;
+
+
+}
+.img-responsive{
+   height: 50px;
+   width: 50px;
+   margin: auto;
+   margin-top:70px;
+
+}
+
+#particles-js{
+height:100%;
+width: 100%;
+background-image: linear-gradient(to right, #4f92ec  , #ec4fc0 ); 
+padding:20px;
+}
+.contact-form input{
+    background: transparent;
+}
+.contact-form textarea{
+    background: transparent;
+}
+.msg{
+padding:44px;
+}
